@@ -1,4 +1,4 @@
-# ABAP_Cloud
+# ABAP Cloud Development
 # Acquire Core ABAP Skills – SAP Learning Journey
 
 This repository is a collection of my practice code, notes, and hands-on examples while going through the [SAP Learning Journey: Acquire Core ABAP Skills](https://learning.sap.com/learning-journeys/acquire-core-abap-skills).
