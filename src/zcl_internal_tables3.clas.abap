@@ -65,7 +65,7 @@ CLASS zcl_internal_tables3 IMPLEMENTATION.
     APPEND 2 * number TO numbers.
 
     out->write(  `---------------------------` ).
-    out->write(  `Example 3: Table Expression` ).
+    out->write(  `Example 3: Table Expression ` ).
     out->write(  `---------------------------` ).
 
     number = numbers[ 2 ] .
