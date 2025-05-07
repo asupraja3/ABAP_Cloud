@@ -6,7 +6,7 @@ This repository is a collection of my practice code, notes, and hands-on example
 The goal of this journey is to build a solid foundation in ABAP programming using Eclipse (ADT). I’m using this space to keep track of my progress and to have a reference for key topics.
 
 ---
-
+  
 ## What's Covered
 
 Here's a rough breakdown of what I've been learning and practicing:
