@@ -30,7 +30,7 @@ CLASS zcl_333_call_method IMPLEMENTATION.
 
 * Call Method and Handle Exception
 **********************************************************************
-    out->write(  |i_carrier_id    = '{ c_carrier_id }' | ).
+    out->write(  |i_carrier_id = '{ c_carrier_id }' | ).
     out->write(  |i_connection_id = '{ c_connection_id }'| ).
 
     TRY.
