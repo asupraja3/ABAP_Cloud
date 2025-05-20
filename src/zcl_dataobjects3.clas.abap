@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_dataobjects3 IMPLEMENTATION.
+CLASS ZCL_DATAOBJECTS3 IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_internal_tables3 IMPLEMENTATION.
+CLASS ZCL_INTERNAL_TABLES3 IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

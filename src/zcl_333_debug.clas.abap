@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_333_debug IMPLEMENTATION.
+CLASS ZCL_333_DEBUG IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

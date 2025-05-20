@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_333_iterate IMPLEMENTATION.
+CLASS ZCL_333_ITERATE IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

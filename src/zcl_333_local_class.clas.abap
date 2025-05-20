@@ -12,8 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_333_local_class IMPLEMENTATION.
-
+CLASS ZCL_333_LOCAL_CLASS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
@@ -50,5 +49,4 @@ CLASS zcl_333_local_class IMPLEMENTATION.
     APPEND connection TO connections.
 
   ENDMETHOD.
-
 ENDCLASS.
